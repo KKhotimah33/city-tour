@@ -5,7 +5,7 @@ export default class Tour extends Component{
 	render(){
 		return <article className="tour">
 			<div className="img-container">
-				<img width="200" src="https://images.pexels.com/photos/3551207/pexels-photo-3551207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="foto da"/>
+				<img src="https://images.pexels.com/photos/3551207/pexels-photo-3551207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="foto da"/>
 				<span className="close-btn">
 					<i className="fas fa-window-close" />
 				</span>
